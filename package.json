@@ -1,0 +1,15 @@
+{
+  "name": "vz.rand",
+  "version": "1.0.0",
+  "description": "Functions for generating random stuff",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/vz.rand.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/vz.rand/issues"
+  },
+  "author": "Manuel Valls Fernández <manolo@chatiku.com>",
+  "license": "LGPL-3.0"
+}
