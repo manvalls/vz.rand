@@ -103,4 +103,4 @@ module.exports.string = function(n,base,useDate){
 	
 	return str;
 };
-	
+
