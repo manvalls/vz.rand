@@ -1,6 +1,6 @@
 {
   "name": "vz.rand",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Functions for generating random stuff",
   "main": "main.js",
   "repository": {
