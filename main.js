@@ -109,3 +109,5 @@ module.exports.unique = function(){
   return '_u_' + (++counter).toString(36) + module.exports.string(5);
 };
 
+if(global.Symbol) module.exports.Su = global.Symbol;
+else module.exports.Su = module.exports.unique;
