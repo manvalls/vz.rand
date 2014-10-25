@@ -104,3 +104,8 @@ module.exports.string = function(n,base,useDate){
 	return str;
 };
 
+var counter = -1;
+module.exports.unique = function(){
+  return '_u_' + (++counter).toString(36) + module.exports.string(5);
+};
+
